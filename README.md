@@ -55,7 +55,7 @@ A **Power BI dashboard** offers an interactive exploration of unemployment trend
 
 ### 🕹 Exploring the Dashboard
 
-1. **Access**: Navigate to [Dashboard Link](#) (add actual link).
+1. **Access**: Navigate to [Dashboard Link](#) (Unemployment_Dashboard.pbix).
 2. **Interact**: Use filters to explore data across different parameters.
 3. **Insights**: Gain insights into unemployment dynamics, aiding in policy formulation and educational reform.
 
